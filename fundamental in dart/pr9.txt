@@ -1,0 +1,27 @@
+void main()
+{
+  num a=10,b=20;
+  dynamic c='*';
+  
+  switch(c)
+  {
+    case '+':
+      print("addition =${a+b}");
+      break;
+      
+    case '-':
+      print("Substraction =${a-b}");
+      break;
+      
+    case '*':
+      print("multiplication =${a*b}");
+      break;
+      
+    case '/':
+      print("divide =${a/b}");
+      break;
+      
+    default:
+      print("Invalid...");
+  }
+}

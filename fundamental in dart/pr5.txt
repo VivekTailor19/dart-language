@@ -1,0 +1,10 @@
+void main()
+{
+  num a=10,i=1,n1=3,n2=8;
+  
+  for(i=n1;i<=n2;i++)
+  {
+    print("$a * $i=${a*i}");
+
+  }
+}

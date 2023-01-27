@@ -1,0 +1,6 @@
+void main()
+{
+  num p=10000,r=4,n=1;
+  
+  print("Simple intrest =${(p*r*n)/100}");
+}

@@ -1,0 +1,6 @@
+void main()
+{
+  num a=5;
+ 
+  (a%2==0)?print("$a is even number."):print("$a is odd number.");
+}
